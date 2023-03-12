@@ -1,3 +1,5 @@
+[![build and test](https://github.com/MikAoJk/first-rust-binary/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/MikAoJk/first-rust-binary/actions/workflows/build_and_test.yml)
+
 # first-rust-binary
 Testing development with The Rust Programming Language (https://www.rust-lang.org/)
 
@@ -24,3 +26,7 @@ Build documentation for your project
 ### Publish
 Publish a library to crates.io with
 `cargo publish`
+
+## Contact
+
+This project is maintained by [CODEOWNERS](CODEOWNERS)
