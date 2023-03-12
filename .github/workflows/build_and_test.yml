@@ -1,6 +1,8 @@
-on: [push]
-
-name: CI
+name: build and deploy master branch
+on:
+  push:
+    branches:
+      - master
 
 jobs:
   build_and_test:
