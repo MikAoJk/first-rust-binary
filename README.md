@@ -5,28 +5,40 @@ Testing development with The Rust Programming Language (https://www.rust-lang.or
 
 ### Build
 Build the code without running it
-`cargo build`
+```bash script
+cargo build
+```
 
 ### Run
 Build and run the code, showing the output
-`cargo run`
+```bash script
+cargo run
+```
 
 ### Test
 Build the code and run all the tests
-`cargo test`
+```bash script
+cargo test
+```
 
 ### Release
 Compile your files with optimizations turned on, puts the resulting binary in target/release
-`cargo build --release`
+```bash script
+cargo build --release
+```
 
 ### Doc
 Build documentation for your project
-`cargo doc`
+```bash script
+cargo doc
+```
 
 ### Publish
 Publish a library to crates.io with
-`cargo publish`
+```bash script
+cargo publish
+```
 
-## Contact
+## 👥 Contact
 
 This project is maintained by [CODEOWNERS](CODEOWNERS)
